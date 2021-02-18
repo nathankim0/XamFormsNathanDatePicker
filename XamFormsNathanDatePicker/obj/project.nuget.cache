@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "3y5Ija8z7p6JkVfD4OjXbUSAyKQj1lBt4xYSpMR5j3Ej5bGaG8sITnHU6ih9MQnfDa1OQpg0MdalAVfrkZo8tw==",
+  "success": true,
+  "projectFilePath": "/Users/jinyeob/Projects/XamFormsNathanDatePicker/XamFormsNathanDatePicker/XamFormsNathanDatePicker.csproj",
+  "expectedPackageFiles": [
+    "/Users/jinyeob/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/jinyeob/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/jinyeob/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/jinyeob/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "/Users/jinyeob/.nuget/packages/xamarin.forms/4.8.0.1451/xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}

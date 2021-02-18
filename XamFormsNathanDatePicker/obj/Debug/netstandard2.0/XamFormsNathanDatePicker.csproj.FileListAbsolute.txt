@@ -1,0 +1,13 @@
+/Users/jinyeob/Projects/XamFormsNathanDatePicker/XamFormsNathanDatePicker/bin/Debug/netstandard2.0/XamFormsNathanDatePicker.deps.json
+/Users/jinyeob/Projects/XamFormsNathanDatePicker/XamFormsNathanDatePicker/bin/Debug/netstandard2.0/XamFormsNathanDatePicker.dll
+/Users/jinyeob/Projects/XamFormsNathanDatePicker/XamFormsNathanDatePicker/bin/Debug/netstandard2.0/ref/XamFormsNathanDatePicker.dll
+/Users/jinyeob/Projects/XamFormsNathanDatePicker/XamFormsNathanDatePicker/bin/Debug/netstandard2.0/XamFormsNathanDatePicker.pdb
+/Users/jinyeob/Projects/XamFormsNathanDatePicker/XamFormsNathanDatePicker/obj/Debug/netstandard2.0/XamFormsNathanDatePicker.csprojAssemblyReference.cache
+/Users/jinyeob/Projects/XamFormsNathanDatePicker/XamFormsNathanDatePicker/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/jinyeob/Projects/XamFormsNathanDatePicker/XamFormsNathanDatePicker/obj/Debug/netstandard2.0/XamFormsNathanDatePicker.AssemblyInfoInputs.cache
+/Users/jinyeob/Projects/XamFormsNathanDatePicker/XamFormsNathanDatePicker/obj/Debug/netstandard2.0/XamFormsNathanDatePicker.AssemblyInfo.cs
+/Users/jinyeob/Projects/XamFormsNathanDatePicker/XamFormsNathanDatePicker/obj/Debug/netstandard2.0/XamFormsNathanDatePicker.csproj.CoreCompileInputs.cache
+/Users/jinyeob/Projects/XamFormsNathanDatePicker/XamFormsNathanDatePicker/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/jinyeob/Projects/XamFormsNathanDatePicker/XamFormsNathanDatePicker/obj/Debug/netstandard2.0/XamFormsNathanDatePicker.dll
+/Users/jinyeob/Projects/XamFormsNathanDatePicker/XamFormsNathanDatePicker/obj/Debug/netstandard2.0/ref/XamFormsNathanDatePicker.dll
+/Users/jinyeob/Projects/XamFormsNathanDatePicker/XamFormsNathanDatePicker/obj/Debug/netstandard2.0/XamFormsNathanDatePicker.pdb

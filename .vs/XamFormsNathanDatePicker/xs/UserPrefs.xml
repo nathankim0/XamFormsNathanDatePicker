@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{A6A5B88C-F2AA-4B9E-AD9A-8378E997FFBC}|Default">
+  <MonoDevelop.Ide.ItemProperties.XamFormsNathanDatePicker.Android TriggeredFromHotReload="False" PreferredExecutionTarget="Android.LMQ925L6127876c" />
+  <MonoDevelop.Ide.ItemProperties.XamFormsNathanDatePicker.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="XamFormsNathanDatePicker" expanded="True">
+            <Node name="XamFormsNathanDatePicker" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="CustomLayout" expanded="True" />
+              <Node name="Interfaces" expanded="True" />
+              <Node name="ViewModel" expanded="True" />
+              <Node name="Views" expanded="True" />
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPage.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
